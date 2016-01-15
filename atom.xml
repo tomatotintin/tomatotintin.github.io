@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Tomato]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://tomatotintin.github.io/"/>
-  <updated>2016-01-15T16:18:03.255Z</updated>
+  <updated>2016-01-15T16:34:31.432Z</updated>
   <id>http://tomatotintin.github.io/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[2016 New Year]]></title>
+    <link href="http://tomatotintin.github.io/2016/01/16/2016-New-Year/"/>
+    <id>http://tomatotintin.github.io/2016/01/16/2016-New-Year/</id>
+    <published>2016-01-15T16:34:31.000Z</published>
+    <updated>2016-01-15T16:34:31.432Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[2015回顧]]></title>
